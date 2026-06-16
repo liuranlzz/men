@@ -1,0 +1,6 @@
+{
+  "enabledMcpjsonServers": [
+    "apifox"
+  ],
+  "enableAllProjectMcpServers": true
+}
