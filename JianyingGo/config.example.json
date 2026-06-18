@@ -1,0 +1,29 @@
+{
+  "jianying_draft_root": "~/Movies/JianyingPro/User Data/Projects/com.lveditor.draft",
+  "allow_replace": false,
+  "fps": 30,
+  "canvas": {
+    "width": 1080,
+    "height": 1920
+  },
+  "caption_split": "segment",
+  "subtitle": {
+    "track_name": "subtitles",
+    "size": 8.0,
+    "transform_y": -0.78,
+    "color": [1.0, 1.0, 1.0],
+    "border_color": [0.0, 0.0, 0.0],
+    "border_width": 45.0,
+    "shadow_alpha": 0.25,
+    "shadow_color": [0.0, 0.0, 0.0],
+    "shadow_diffuse": 18.0,
+    "shadow_distance": 6.0,
+    "shadow_angle": -45.0,
+    "max_line_width": 0.86
+  },
+  "deepseek": {
+    "base_url": "https://api.deepseek.com",
+    "model": "deepseek-v4-flash",
+    "thinking": "disabled"
+  }
+}
